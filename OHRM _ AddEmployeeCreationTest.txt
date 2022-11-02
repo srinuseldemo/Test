@@ -1,0 +1,36 @@
+
+
+1. Navigate to OHRM Application
+   Expected Title - OrangeHRM
+   Expected UrlAddress - orangehrm-4.2.0.1
+   Expected Text - LOGIN Panel
+
+2. LogIn to Application with Valid Test Data
+
+3. Landing Page Should be HomePage of OrangeHRM Application
+   Expected Title - OrangeHRM
+   Expected Text - Admin
+
+4. Navigate to PIM
+5. Navigate to AddEmployee
+
+6. Landing Page Should be Add Employee Page
+   Expected Title - OrangeHRM
+   Expected Text - Full Name
+   
+   Created Employee - Send data  into Elements
+   First Name , Middle Name and Last Name
+   Expected EmployeeID -  get the Employee  Id 
+  
+   Click on "Save" Button
+
+7.Landing Page should be Personal Details Page
+   Validate - First Name , Middle Name and Last Name and Employee ID
+
+
+8. Automate WelCome Admin
+9. LogOut
+   Expected Text - LOGIN Panel  
+10. Close the Application
+
+     

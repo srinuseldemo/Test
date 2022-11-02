@@ -1,0 +1,4 @@
+Note:-
+WebElement is an in-built interface in selenium which is used to store anything captured
+from the web application, it works like a datatype and it can be used to store information 
+about links, images, buttons, radio button, etc.
